@@ -2,7 +2,8 @@
 
 We will Model the price of cars with the available independent variables for any given market.
 
-## Data sets: Kaggle dataset - car price prediction
+## Data sets: 
+    Kaggle dataset - car price prediction
 
 ## Regressors :
   A regressor is a statistical term. It refers to any variable in a regression model that is used to predict a response variable.
