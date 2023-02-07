@@ -5,7 +5,8 @@ We will Model the price of cars with the available independent variables for any
 ## Regressors :
   A regressor is a statistical term. It refers to any variable in a regression model that is used to predict a response variable.
 
-  Price-Distriution-Plot.png
+![Price-Distriution-Plot](https://user-images.githubusercontent.com/90651908/217284612-7c15e4bf-347f-4706-adfc-4ff84c72612b.png)
+
 
 ## A regressor is also known as:
     An independent variable
@@ -16,7 +17,8 @@ We will Model the price of cars with the available independent variables for any
 
 ## Feature correlations Plot:
 
-  Feature-Corelation.png
+ ![Feature-Corelation](https://user-images.githubusercontent.com/90651908/217284739-0ea62ad3-278d-4ba5-babe-54439b329c27.png)
+
 
 ## Different regression models used:
     Random Forest Regressor
